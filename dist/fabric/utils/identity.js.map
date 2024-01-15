@@ -1,0 +1,1 @@
+{"version":3,"file":"identity.js","sourceRoot":"","sources":["../../../src/fabric/utils/identity.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,IAAI,EAAE,EAAE,MAAM,IAAI,CAAC;AAGpC,MAAM,CAAC,KAAK,UAAU,WAAW,CAAC,KAAa,EAAE,QAAgB;IAC7D,MAAM,WAAW,GAAG,MAAM,EAAE,CAAC,QAAQ,CAAC,QAAQ,CAAC,CAAC;IAChD,OAAO,EAAE,KAAK,EAAE,WAAW,EAAE,CAAC;AAClC,CAAC"}

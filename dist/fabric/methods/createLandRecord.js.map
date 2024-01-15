@@ -1,0 +1,1 @@
+{"version":3,"file":"createLandRecord.js","sourceRoot":"","sources":["../../../src/fabric/methods/createLandRecord.ts"],"names":[],"mappings":"AAEA,MAAM,CAAC,KAAK,UAAU,gBAAgB,CAAC,QAAkB,EAAE,IAAc;IACrE,gCAAgC;IAChC,MAAM,MAAM,GAAG,MAAM,QAAQ,CAAC,iBAAiB,CAAC,kBAAkB,EAAE,GAAG,IAAI,CAAC,CAAC;IAC7E,OAAO,MAAM,CAAC,QAAQ,EAAE,CAAC;AAC7B,CAAC"}
